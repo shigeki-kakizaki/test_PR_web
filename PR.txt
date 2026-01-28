@@ -10,7 +10,7 @@
 4.pushして、自分のリモートリポジトリを更新してください。このとき、作業ブランチを更新することに注意してください。
 5.プルリクエストを送りましょう。
 
-shkakizaki
+shkakizaki ←見つけました。マージしてください。
 saiguchi
 koinoue
 shiwata
